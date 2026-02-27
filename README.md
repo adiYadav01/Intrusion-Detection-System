@@ -1,4 +1,4 @@
-## Intrusion Detection System (AI-Based)
+# Intrusion Detection System (AI-Based)
 📌 Project Overview
 
 This project is an AI-based Intrusion Detection System (IDS) that analyzes incoming network traffic and detects whether the request is normal or malicious (attack).
